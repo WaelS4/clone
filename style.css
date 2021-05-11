@@ -22,6 +22,12 @@ header {
   font-weight: 400;
   text-decoration: underline;
 }
+.demo select {
+  border: none;
+}
+.demo option {
+  color: black;
+}
 #top {
   width: 260px;
 }
